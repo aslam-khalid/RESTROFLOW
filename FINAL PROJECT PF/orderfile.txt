@@ -1,9 +1,0 @@
-Customer: junaid, Phone: 123456789012
-Order Summary:
-Chicken Tikka Karahi x 5 - Rs.900
-Dal Fry x 5 - Rs.500
-Total Bill: Rs.1260
-Tax: Rs.140
-Tip: Rs.10
-Total Bill after Tax and Tip: Rs.1410
-----------------------------------------
